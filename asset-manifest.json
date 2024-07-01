@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seaseeraw/my-portfolio.git/static/css/main.25811099.css",
+    "main.js": "/seaseeraw/my-portfolio.git/static/js/main.0bd7aacf.js",
+    "static/js/453.acca0757.chunk.js": "/seaseeraw/my-portfolio.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/seaseeraw/my-portfolio.git/index.html",
+    "main.25811099.css.map": "/seaseeraw/my-portfolio.git/static/css/main.25811099.css.map",
+    "main.0bd7aacf.js.map": "/seaseeraw/my-portfolio.git/static/js/main.0bd7aacf.js.map",
+    "453.acca0757.chunk.js.map": "/seaseeraw/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25811099.css",
+    "static/js/main.0bd7aacf.js"
+  ]
+}
